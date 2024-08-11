@@ -40,6 +40,7 @@ if os.path.exists('./dataset.csv'):
 
 
 with st.sidebar:
+    st.image("logo.jpg")
     st.title("Data Pulse")
     choice = st.radio(
         "Navigation", ["Upload", "Profiling", "Modelling", "Visualization", "Download"])

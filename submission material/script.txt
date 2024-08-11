@@ -1,0 +1,20 @@
+[Introduction]
+Hello and welcome! In this video, we will take you on an exciting journey through Data Pulse. A tool to automate data profiling and model selection
+
+[Part 1]
+Let's begin with uploading Dataset . Here, we upload the essential element of this project that is Data Pulse. 
+
+[Part 2]
+Next, we move on to Data profiling. This section highlights the insights of the data set by performing Explortory data Analysis, which is crucial because without it we cannot proceed with the Machine learning practices. Notice how the report stands out.
+
+[Part 3]
+Next, we move on to Modelling. This section will ask the user to select target coulmn which will be used to carry out the algorithms. then the software will prprocess the data and do its work by running multiple models at a single time . as a result a table will occur which will show the performance of the models with accuracy of each.
+
+[Part 4]
+Next, we move on to Data Visualization. This section highlights the insights of the data set, we can set them also according to our needs .
+
+[Part 5]
+Atlast, we move on to downloading model. This section will download the model with the best accuracy in the pickle format.
+
+[Conclusion]
+Thank you for watching. We hope you enjoyed this exploration of Data Pulse. 
